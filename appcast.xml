@@ -6,6 +6,15 @@
         <description>Glance releases</description>
         <language>en</language>
         <item>
+            <title>Glance 0.4.0</title>
+            <pubDate>Fri, 06 Nov 2026 17:49:36 +0000</pubDate>
+            <sparkle:version>243</sparkle:version>
+            <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://github.com/casjbtechnique-gif/glance-releases/releases/tag/v0.4.0</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/casjbtechnique-gif/glance-releases/releases/download/v0.4.0/Glance-0.4.0.zip" length="2510979" type="application/octet-stream" sparkle:edSignature="t+jScf1tnMmqjrdNuiVTgevC4x+nEejwMSt8E5cOpa8czxxFSZNZiM/XYBXdoW2KIXx5n3zhPML4Nz5mC/WeCg=="></enclosure>
+        </item>
+        <item>
             <title>Glance 0.3.1</title>
             <pubDate>Fri, 06 Nov 2026 14:39:17 +0000</pubDate>
             <sparkle:version>193</sparkle:version>
